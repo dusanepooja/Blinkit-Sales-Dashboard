@@ -33,7 +33,7 @@ Overall Trends: Provides a complete view of the company’s sales metrics and gr
 
 📋 How to Use the Dashboard
 Clone this repository:
-git clone https://github.com/dusane pooja/blinkit-sales-dashboard.git
+git clone https://github.com/dusanepooja/blinkit-sales-dashboard.git
 Open the Blinkit_Sales_Dashboard.pbix file in Power BI Desktop.
 Ensure the dataset file (Dataset.csv) is accessible in the correct file path.
 Explore the dashboard to analyze sales performance and trends interactively.
