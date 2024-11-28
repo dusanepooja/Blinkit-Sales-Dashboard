@@ -20,7 +20,9 @@ Interactive Visualizations: Drill-down and filter options for dynamic exploratio
 Blinkit_Sales_Dashboard.pbix: Power BI dashboard file containing the visualizations and insights.
 Dataset.csv: The dataset used for creating the dashboard, with attributes like sales, item type, outlet size, location, and more.
 Screenshots/: Contains images of the dashboard for a quick preview.
+
 🛠️ Technologies Used
+
 Power BI: To design the dashboard and visualizations.
 Data Analysis Expressions (DAX): For creating calculated measures and insights.
 Excel/CSV: Data pre-processing and cleaning.
