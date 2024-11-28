@@ -39,7 +39,12 @@ Ensure the dataset file (Dataset.csv) is accessible in the correct file path.
 Explore the dashboard to analyze sales performance and trends interactively.
 
 📷 Screenshots
+
 Page 1: Sales Analysis by Year
 
 Page 2: Outlet Performance
+
+🎯 Contributor
+
+Pooja Ramakant Dusane
 
